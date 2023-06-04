@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+#message{
+    padding:50px;
+}
+
+.stage1{
+    background-color: orange;
+    color:black;
+}
+
+.stage2{
+    background-color: blue;
+    color:white;
+}
+.stage3{
+    background-color:green;
+    color:tomato;
+}
+.stage4{
+    background-color:red;
+    color:white;
+}
+.stage5{
+    background-color: green;
+    color:blue;
+}
